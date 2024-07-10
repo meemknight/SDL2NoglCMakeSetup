@@ -4,7 +4,7 @@
 
 ## What is it?
 
-I already set up SDL2 + IMGUI + GLM (and networking (ENet)) libraries for you! 
+I already set up <b>SDL2</b> + <b>IMGUI</b> + <b>GLM</b> (and networking (ENet)) libraries for you! 
 Take it and enjoy! You don't even need to know CMake! 
 And of course, if all you want is SDL2 you can remove the rest!
 
