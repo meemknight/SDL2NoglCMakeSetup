@@ -4,10 +4,11 @@
 
 ## What is it?
 
-I already setup SDL2 + IMGUI + GLM (and networking (ENet)) libraries for you! 
+I already set up SDL2 + IMGUI + GLM (and networking (ENet)) libraries for you! 
 Take it and enjoy! You don't even need to know CMake! 
-And of chourse if all you want is SDL2 you can remove the rest!
+And of course, if all you want is SDL2 you can remove the rest!
 
+![image](https://github.com/meemknight/SDL2NoglCMakeSetup/assets/36445656/592cbc1f-312c-412a-a4b7-8cf8b03ed468)
 
 
 <p>Opening the Solution:</p> 
